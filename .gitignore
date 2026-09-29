@@ -1,0 +1,6 @@
+venv/
+.matplotlib_cache/
+.DS_Store
+__pycache__/
+*.pyc
+output/
